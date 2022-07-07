@@ -7,12 +7,18 @@
 -->
 
 UI/UX
-Adobe Creative Suite
-Adobe Substance 3D
-Unity
+<br />
 React
+<br />
 MongoDB Atlas
+<br />
 Node
+<br />
+Adobe Creative Suite
+<br />
+Adobe Substance 3D
+<br />
+Unity
 
 <!---
 JD-UX/JD-UX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
